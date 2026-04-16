@@ -1,21 +1,13 @@
-NOME: Felipe Mello Ramalho Cagnin
-
-RM: 569237
+NOME: Felipe Mello Ramalho Cagnin - RM: 569237
 
 ----------------------------------------------
 
-NOME:Gabriel Beu Volpato Correa de Assis
-
-RM:563008
+NOME:Gabriel Beu Volpato Correa de Assis - RM:563008
 
 ----------------------------------------------
 
-NOME: Matheus A Patelli
-
-RM: 567261
+NOME: Matheus A Patelli - RM: 567261
 
 ----------------------------------------------
 
-NOME: Jhon Cutile Titirico
-
-RM: 571976
+NOME: Jhon Cutile Titirico - RM: 571976
